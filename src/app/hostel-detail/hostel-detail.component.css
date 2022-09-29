@@ -1,0 +1,50 @@
+.card:hover {
+    box-shadow: -8px 8px 12px 0 rgb(0 0 0 / 58%);;
+}
+
+.mx-5 {
+    margin-right: 5rem!important;
+    margin-left: 5rem!important;
+}
+
+.anctagclr{
+  color: #a14c4c
+}
+.hostelfeestrc{
+  margin:auto;
+  border-top: 2px groove black;
+  border-bottom: 2px groove black;
+}
+.imgtag{
+  width:100%;
+}
+.hostelfac{
+  margin:auto;
+  border-top: 2px groove black;
+  border-bottom: 2px groove black;
+}
+.h2tag{
+  color: black;
+  font-weight: 500;
+}
+.h2fnttag{
+  font-size: 13px;
+}
+.hrtag{
+  margin:revert;
+}
+.girlsroomtag{
+  margin:auto;
+  border-top: 2px groove black;
+  border-bottom: 2px groove black;
+}
+.cardwidth{
+  width: 18rem;
+}
+.emtagfnt{
+  font-size: 13px;
+}
+.spntagclr{
+  color: black;
+  font-weight: 500;
+}
